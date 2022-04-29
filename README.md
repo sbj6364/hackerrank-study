@@ -1,2 +1,2 @@
 # HackerRank Study
-> Hackerrank prepration/contest codebook
+> Hackerrank preparation/contest codebook
